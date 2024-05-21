@@ -1,0 +1,7 @@
+.home{
+    display: flex;
+    text-decoration: none;
+}
+.home:hover{
+    background-color: aqua;
+}

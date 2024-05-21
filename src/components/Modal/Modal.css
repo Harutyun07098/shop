@@ -1,0 +1,21 @@
+/* Header{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    background-color: cadetblue;
+    width: 900px;
+  justify-content: space-between;
+  border: 2px solid;
+ 
+}
+.nav{
+    display: flex;
+    gap: 20px;
+    font-size: larger;
+    text-decoration: none;
+} */
+.modal{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

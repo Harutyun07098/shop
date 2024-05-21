@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.All{
+    display: flex;
+    flex-direction: row;
+    width: 900px;
+    height: 350px;
+    justify-content: space-between;
+    gap: 40px;
+    padding: 30px;
+    border: 2px solid goldenrod;
+    margin-top: 20px;
+}
+
+.img{
+    width: 250px;
+    height: 250px;
+}
+.btn{
+    width: 70px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+ .btn:hover{
+    background-color: slateblue;
+}
